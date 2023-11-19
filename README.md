@@ -1,4 +1,4 @@
 - 🔭 I’m currently working on *too many* side projects
 - 🌱 I’m currently learning **Kubernetes** and **Rust**
 - 📫 How to reach me: **ikuba03@gmail.com**
-- ⚡ Fun fact: I use arch btw
+- ⚡ Fun fact: *I use arch btw*
