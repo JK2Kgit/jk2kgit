@@ -2,3 +2,4 @@
 - 🌱 I’m currently learning **Kubernetes** and **Rust**
 - 📫 How to reach me: **ikuba03@gmail.com**
 - ⚡ Fun fact: *I use arch btw*
+- CV: [jk2kgit.github.io](https://jk2kgit.github.io)
