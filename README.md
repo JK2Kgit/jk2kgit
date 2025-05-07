@@ -2,7 +2,3 @@
 - 🌱 I’m currently learning **Kubernetes** and **Rust**
 - 📫 How to reach me: **ikuba03@gmail.com**
 - ⚡ Fun fact: *I use arch btw*
-- CV: [jk2kgit.github.io](https://jk2kgit.github.io)
-- Assigment to create page outside of GH pages: [page](https://biaxial-summaries.000webhostapp.com/)
-- Assigment fork: [fork](https://github.com/JK2Kgit/llm_rules)
-- Assigment Paper with code: [paper](https://paperswithcode.com/paper/can-llms-follow-simple-rules) 
